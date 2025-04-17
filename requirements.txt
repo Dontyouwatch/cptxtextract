@@ -18,3 +18,4 @@ psutil
 py-tgcalls==0.6.0
 urllib3==1.26.5
 chardet==3.0.4
+gunicorn
